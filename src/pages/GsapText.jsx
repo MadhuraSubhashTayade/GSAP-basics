@@ -20,7 +20,7 @@ const GsapText = () => {
         opacity: 1,
         y: 0,
         delay: 1,
-        stagger: 0.5,
+        stagger: 0.6,
       }
     );
   });
